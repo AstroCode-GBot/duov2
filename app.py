@@ -12,8 +12,8 @@ from Crypto.Util.Padding import pad, unpad
 urllib3.disable_warnings()
 
 
-GUEST_UID = "4288546635"
-GUEST_PASSWORD = "I_VL15J_BY_SPIDEERIO_GAMING_3YI1X"
+GUEST_UID = "8419939141"
+GUEST_PASSWORD = "telegram@raigenffofc-7gg5wm"
 
 
 AeSkEy = b'Yg&tc%DEuh6%Zc^8'
